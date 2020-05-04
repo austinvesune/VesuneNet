@@ -1,0 +1,62 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+#spnAutoTyper {
+    color: #222222;
+    text-decoration: none;
+}
+
+#dvAutoTyperContainer {
+    min-height: 60px;
+    max-height: 60px;
+    display: block;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #222222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.jumbotron {
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+p {
+    margin: 0px;
+}
+
+h2 {
+    margin: 0px;
+}
+
+h1 {
+    margin: 0px;
+}
+
+.HeaderTextGreen {
+    color: green;
+}
